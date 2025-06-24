@@ -156,3 +156,4 @@ pnpm deploy
 ---
 
 **Built with ❤️ using React + TypeScript + TailwindCSS**
+# Trigger rebuild after repository visibility change
