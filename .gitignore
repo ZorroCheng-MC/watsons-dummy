@@ -94,6 +94,7 @@ dist
 tmp/
 temp/
 
-# Lock files (keep package-lock.json but ignore others)
+# Lock files (ignore all lock files as they can be regenerated)
+package-lock.json
 yarn.lock
 pnpm-lock.yaml
