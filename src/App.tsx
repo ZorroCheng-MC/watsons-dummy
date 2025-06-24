@@ -3,7 +3,6 @@ import Header from './components/Header';
 import HeroBanner from './components/HeroBanner';
 import ProductGrid from './components/ProductGrid';
 import Footer from './components/Footer';
-import FloatingChatbot from './components/FloatingChatbot';
 import './App.css';
 
 function App() {
@@ -15,7 +14,6 @@ function App() {
         <ProductGrid />
       </main>
       <Footer />
-      <FloatingChatbot />
     </div>
   );
 }
